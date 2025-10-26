@@ -1,4 +1,4 @@
-const { NotImplementedError } = require('../lib');
+const { NotImplementedError } = require("../lib");
 
 /**
  * Given some integer, find the maximal number you can obtain
@@ -13,9 +13,9 @@ const { NotImplementedError } = require('../lib');
  */
 function deleteDigit(/* n */) {
   // Remove line below and write your code here
-  throw new NotImplementedError('Not implemented');
+  throw new NotImplementedError("Not implemented");
 }
 
 module.exports = {
-  deleteDigit
+  deleteDigit,
 };
